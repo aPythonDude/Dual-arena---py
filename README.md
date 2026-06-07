@@ -19,3 +19,5 @@ Player 2: up jump
           O parry
           L special
           I ultimate
+
+credit Charlotte Lee
